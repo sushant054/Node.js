@@ -1,4 +1,4 @@
-/*Faker
+/*Faker..
 To generate fake data in database
 installation=>npm i @faker-js/faker
 */
